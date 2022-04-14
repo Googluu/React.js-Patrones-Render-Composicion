@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React.js-Patrones-Render-Composicion/static/css/main.97aa0bc7.css",
+    "main.js": "/React.js-Patrones-Render-Composicion/static/js/main.adccf108.js",
+    "index.html": "/React.js-Patrones-Render-Composicion/index.html",
+    "static/media/delete.svg": "/React.js-Patrones-Render-Composicion/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/React.js-Patrones-Render-Composicion/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.97aa0bc7.css.map": "/React.js-Patrones-Render-Composicion/static/css/main.97aa0bc7.css.map",
+    "main.adccf108.js.map": "/React.js-Patrones-Render-Composicion/static/js/main.adccf108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97aa0bc7.css",
+    "static/js/main.adccf108.js"
+  ]
+}
